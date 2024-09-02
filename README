@@ -1,0 +1,7 @@
+# RPA Invoice Processing
+
+## Overview
+
+This project demonstrates a Robotic Process Automation (RPA) solution for processing invoices. The system extracts data from PDF invoices and saves it into an Excel file. It includes scripts for generating sample invoices, extracting data from them, and entering that data into an Excel spreadsheet.
+
+
